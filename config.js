@@ -4,7 +4,7 @@
 // ============================================================
 const STORE_CONFIG = {
   storeName: "燦坤豐原旗艦店", // 店名，可自行修改
-  lineUrl: "https://line.me/R/ti/p/@204zaptp?oat_content=qr#~",
-  fbUrl: "https://www.facebook.com/share/1EoNojtFMP/?mibextid=wwXIfr",
-  mapUrl: "https://maps.app.goo.gl/CkL3ng241dFXRJTp8?g_st=ic",
+  lineUrl: "https://lin.ee/Pl6P5rq",
+  fbUrl: "https://www.facebook.com/appleshop238/",
+  mapUrl: "https://maps.app.goo.gl/4KAj8DAyEaDF5JgM8?g_st=ic",
 };
