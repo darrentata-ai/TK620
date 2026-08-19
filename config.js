@@ -8,4 +8,3 @@ const STORE_CONFIG = {
   fbUrl: "https://www.facebook.com/appleshop238/",
   mapUrl: "https://maps.app.goo.gl/4KAj8DAyEaDF5JgM8?g_st=ic",
 };
-test
